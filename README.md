@@ -1,7 +1,5 @@
 # Awesome Anomaly Detection
-A list of Papers on anomaly detection.
-You are welcome to open an issue and pull your requests if you think any paper that is important but not are inclueded in this repo.
-The papers are orgnized in classical method, deep learning method, application and survey.
+I forked this repo to have list of options for stall-based anomoly detection.
 
 
 ## Classical Method
@@ -46,7 +44,7 @@ The papers are orgnized in classical method, deep learning method, application a
 
 ### Streaming
 
-- [MIDAS: Microcluster-Based Detector of Anomalies in Edge Streams](https://www.comp.nus.edu.sg/~sbhatia/assets/pdf/midas.pdf) - AAAI 2020.
+- ~[MIDAS: Microcluster-Based Detector of Anomalies in Edge Streams](https://www.comp.nus.edu.sg/~sbhatia/assets/pdf/midas.pdf) - AAAI 2020.~ We do not have graph-data.
 
 
 ## Deep Learning Method
