@@ -91,6 +91,7 @@ I forked this repo to have list of options for stall-based anomoly detection.
 - [Deep One-Class Classification](http://proceedings.mlr.press/v80/ruff18a/ruff18a.pdf) - ICML 2018.
 
 - [Deep Semi-Supervised Anomaly Detection](https://openreview.net/forum?id=HkgH0TEYwH) - ICLR 2020.
+  - TE: 5/25 Try this one first ! 
 
 - [Simple and Effective Prevention of Mode Collapse in Deep One-Class Classification](https://arxiv.org/pdf/2001.08873.pdf) - IJCNN 2021
 
