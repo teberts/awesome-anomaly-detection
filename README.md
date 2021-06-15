@@ -161,7 +161,8 @@ I forked this repo to have list of options for stall-based anomoly detection.
 
 ## Survey
 
-- [Anomaly detection in dynamic networks: a survey](https://onlinelibrary.wiley.com/doi/pdf/10.1002/wics.1347)
+- ~[Anomaly detection in dynamic networks: a survey](https://onlinelibrary.wiley.com/doi/pdf/10.1002/wics.1347)~
+  - We do not have graph data 
 
 - [Anomaly Detection : A Survey](http://cucis.ece.northwestern.edu/projects/DMS/publications/AnomalyDetection.pdf)
 
