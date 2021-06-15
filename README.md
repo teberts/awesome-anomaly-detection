@@ -49,7 +49,8 @@ I forked this repo to have list of options for stall-based anomoly detection.
 
 ### Ranking
 
-- [ranking causal anomalies via temporal and dynamical analysis on vanishing correlations](https://www.kdd.org/kdd2016/papers/files/rfp0445-chengAemb.pdf) - KDD 2016.
+- ~[ranking causal anomalies via temporal and dynamical analysis on vanishing correlations](https://www.kdd.org/kdd2016/papers/files/rfp0445-chengAemb.pdf) - KDD 2016.~
+  - Works on Graph data, not scalar.
 
 ### Streaming
 
