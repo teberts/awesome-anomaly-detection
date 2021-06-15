@@ -32,7 +32,8 @@ I forked this repo to have list of options for stall-based anomoly detection.
 ### PCA-based
 
 - [robust deep and inductive anomaly detection](https://arxiv.org/abs/1704.06743) - ECML PKDD 2017
-  - Has promise.  Code provided. 
+  - Has promise.  
+  - Code provided (https://github.com/raghavchalapathy/rcae) 
   - Test cases are images, so we need to adapt for vector/scalar inputs. 
 
 - [A loss framework for calibrated anomaly detection](https://papers.nips.cc/paper/7422-a-loss-framework-for-calibrated-anomaly-detection.pdf) - NIPS 2018
