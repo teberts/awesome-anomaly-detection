@@ -5,17 +5,20 @@ I forked this repo to have list of options for stall-based anomoly detection.
 ## Classical Method
 - ~[Isolation Forest](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/icdm08b.pdf)~ - ICDM 2008.
   - Implemented
-- [LOF: Identifying Density-Based Local Outliers](http://www.dbs.ifi.lmu.de/Publikationen/Papers/LOF.pdf) - SIGMOD 2000.
+- ~[LOF: Identifying Density-Based Local Outliers](http://www.dbs.ifi.lmu.de/Publikationen/Papers/LOF.pdf)~ - SIGMOD 2000.
+  - Implemented   
 
 - ~[Extended Isolation Forest](http://matias-ck.com/files/papers/Extended_Isolation_Forest.pdf)~
   - Implemented
-- [Robust Random Cut Forest Based Anomaly Detection On Streams](http://proceedings.mlr.press/v48/guha16.pdf)
+- ~[Robust Random Cut Forest Based Anomaly Detection On Streams](http://proceedings.mlr.press/v48/guha16.pdf)~
+  - Same as EIF?   
 
 - ~[Support Vector Method for Novelty Detection](https://papers.nips.cc/paper/1723-support-vector-method-for-novelty-detection.pdf)~ - NIPS 2000
   - Implemented
 ### One-Class Classification
 
-- [One-Class SVMs for Document Classification](http://www.jmlr.org/papers/volume2/manevitz01a/manevitz01a.pdf) - JMLR 2001. 
+- ~[One-Class SVMs for Document Classification](http://www.jmlr.org/papers/volume2/manevitz01a/manevitz01a.pdf)~ - JMLR 2001. 
+  - Implemented   
 
 - [Support Vector Data Description](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.100.1425&rep=rep1&type=pdf) 
 
