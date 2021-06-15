@@ -166,10 +166,11 @@ I forked this repo to have list of options for stall-based anomoly detection.
 
 - ~[Anomaly Detection : A Survey](http://cucis.ece.northwestern.edu/projects/DMS/publications/AnomalyDetection.pdf)~
   - Rather old info. Specifically the Neural approaches.
-- ~[A Survey of Recent Trends in One Class Classification](https://link.springer.com/chapter/10.1007/978-3-642-17080-5_21) ~
+- ~[A Survey of Recent Trends in One Class Classification](https://link.springer.com/chapter/10.1007/978-3-642-17080-5_21)~
   - Old. + Springer paywall. 
 
-- [A survey on unsupervised outlier detection in high‐dimensional numerical data](https://onlinelibrary.wiley.com/doi/abs/10.1002/sam.11161)
+- ~[A survey on unsupervised outlier detection in high‐dimensional numerical data](https://onlinelibrary.wiley.com/doi/abs/10.1002/sam.11161)~
+  - Wiley Paywall  
 
 
 
