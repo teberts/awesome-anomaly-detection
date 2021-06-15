@@ -52,7 +52,8 @@ I forked this repo to have list of options for stall-based anomoly detection.
 
 ### Streaming
 
-- ~[MIDAS: Microcluster-Based Detector of Anomalies in Edge Streams](https://www.comp.nus.edu.sg/~sbhatia/assets/pdf/midas.pdf) - AAAI 2020.~ We do not have graph-data.
+- ~[MIDAS: Microcluster-Based Detector of Anomalies in Edge Streams](https://www.comp.nus.edu.sg/~sbhatia/assets/pdf/midas.pdf) - AAAI 2020.~ 
+  - We do not have graph-data.
 
 
 ## Deep Learning Method
