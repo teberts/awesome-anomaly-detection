@@ -66,6 +66,8 @@ I forked this repo to have list of options for stall-based anomoly detection.
 #### Auto-encoder
 
 - [Learning sparse representation with variational auto-encoder for anomaly detection](https://ieeexplore.ieee.org/document/8386760/)
+  - The data they use are Graph, Image, and Video data, not scalar sequences.
+  - No code?
 
 - [Anomaly Detection with Robust Deep Autoencoders](http://dl.acm.org/authorize?N33358) - KDD 2017.
 
