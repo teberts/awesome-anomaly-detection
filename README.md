@@ -64,6 +64,8 @@ I forked this repo to have list of options for stall-based anomoly detection.
 - [Variational Autoencoder based Anomaly Detection using Reconstruction Probability](http://dm.snu.ac.kr/static/docs/TR/SNUDM-TR-2015-03.pdf)  
 
 #### Auto-encoder
+- [https://github.com/yuxiao-ash/ITAE-Pytorch-Anomaly_Detection]
+  - uses transformers
 
 - [Learning sparse representation with variational auto-encoder for anomaly detection](https://ieeexplore.ieee.org/document/8386760/)
   - The data they use are Graph, Image, and Video data, not scalar sequences.
